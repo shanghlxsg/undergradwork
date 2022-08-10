@@ -1,0 +1,10 @@
+#A0167431H
+dt: 0.1
+target_distance: 1.1
+target_angle: 0     #perpendicular
+Kp_f: 0.1
+Ki_f: 0
+Kd_f: 0.1
+Kp_a: 0.8
+Ki_a: 0
+Kd_a: 0

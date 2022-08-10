@@ -1,0 +1,8 @@
+prefix=/home/user/FYP_431H/devel
+
+Name: GPIO_pantilt
+Description: Description of GPIO_pantilt
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

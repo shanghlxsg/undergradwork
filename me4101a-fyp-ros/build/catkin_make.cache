@@ -1,0 +1,2 @@
+rpi_gpio_pantilt
+-DCATKIN_DEVEL_PREFIX=/home/user/FYP_431H/devel -DCMAKE_INSTALL_PREFIX=/home/user/FYP_431H/install -G Unix Makefiles
